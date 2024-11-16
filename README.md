@@ -12,3 +12,5 @@ Scenario - Two VPCs in the Ohio region are on Account A, and one VPC in the Cali
 10. On Account A, under transit gateway create a static route by attaching the "peering transit gateway attachment" with account B's VPC IP address.
 11. Similarly, on Account B under transit gateway create two static route by attaching the "peering transit gateway attachment" with account A's both the VPC IP address.
 12. For testing the connection, create two instance on Account A's of two VPCs and another instance on Account B's of VPC respectivily.
+
+![transit](https://github.com/user-attachments/assets/7360d45d-c2dc-409f-8ec7-81448a69d049)
