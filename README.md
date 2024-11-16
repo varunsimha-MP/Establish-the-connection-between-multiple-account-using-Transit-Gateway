@@ -1,5 +1,3 @@
-# Establish-the-connection-between-multiple-account-using-Transit-Gateway
-
 Scenario - Two VPCs in the Ohio region are on Account A, and one VPC in the California region is on Account B.
 
 1. Setup two VPCs and their subnet, internet gateway and route table by adding the routing internet gateway then create two security group for each VPC respectively in the Ohio region on Account A.
